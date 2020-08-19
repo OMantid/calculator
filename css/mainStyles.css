@@ -1,0 +1,29 @@
+body {
+    box-sizing: border-box;
+    margin: 20px;
+    width:100%;
+    height: 100vh;
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(5, 20%);
+    grid-template-rows: repeat(5, 80px);
+}
+
+.btn {
+    font-size: 20px;
+}
+.item-display {
+    font-size: 20px;
+    grid-column: 1 / -1;
+}
+
+.btn-equals {
+    grid-area: 4 / 5 / -1 / 6;
+}
