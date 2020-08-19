@@ -1,4 +1,4 @@
-#Project: Calculator
+# Project: Calculator
 
 This Odin project assignment asks to create a simple calculator.
 
