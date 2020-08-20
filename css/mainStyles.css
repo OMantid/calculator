@@ -16,14 +16,19 @@ body {
     grid-template-rows: repeat(5, 80px);
 }
 
-.btn {
+button {
     font-size: 20px;
 }
+
 .item-display {
+    background-color: black;
+    text-align: right;
+    padding-right: 20px;
+    color: white;
     font-size: 20px;
     grid-column: 1 / -1;
 }
 
-.btn-equals {
+#equals {
     grid-area: 4 / 5 / -1 / 6;
 }
