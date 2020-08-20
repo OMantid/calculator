@@ -9,5 +9,5 @@ This Odin project assignment asks to create a simple calculator.
 - [x] Add a clear button
 - [ ] EXTRA CREDIT: Add a . button and let users input decimals
 - [ ] EXTRA CREDIT: Make it look nice!
-- [ ] EXTRA CREDIT: Add a backspace button
+- [x] EXTRA CREDIT: Add a backspace button
 - [ ] EXTRA CREDIT: Add keyboard support!
